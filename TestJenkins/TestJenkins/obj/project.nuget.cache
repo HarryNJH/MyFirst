@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UV3IEztUNI3djkxGm5G9hn+bhbm5myYS0oCGwCouZMY0BE2n1Kup+kbqhnwLYVXmMPPWaYWU4UXMfgH6U+Na4Q==",
+  "success": true,
+  "projectFilePath": "D:\\CodeLib\\Github\\MyFirst\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jiahu_Nie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
