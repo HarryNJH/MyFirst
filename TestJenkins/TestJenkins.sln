@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJenkins", "TestJenkins\TestJenkins.csproj", "{1727A498-E080-425B-8C0F-E16B5B63AC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestJenkins", "TestJenkins\TestJenkins.csproj", "{1727A498-E080-425B-8C0F-E16B5B63AC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstAzureWebApp", "MyFirstAzureWebApp\MyFirstAzureWebApp.csproj", "{F7269CAB-5246-48CE-B2B7-30C48865F113}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1727A498-E080-425B-8C0F-E16B5B63AC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1727A498-E080-425B-8C0F-E16B5B63AC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1727A498-E080-425B-8C0F-E16B5B63AC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7269CAB-5246-48CE-B2B7-30C48865F113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7269CAB-5246-48CE-B2B7-30C48865F113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7269CAB-5246-48CE-B2B7-30C48865F113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7269CAB-5246-48CE-B2B7-30C48865F113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
